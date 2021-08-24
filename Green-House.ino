@@ -3,13 +3,13 @@
 #include "DHT.h"
 
 //OLED Display
-//#include <Wire.h>
-//#include <Adafruit_GFX.h>
-//#include <Adafruit_SSD1306.h>
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
 
 //IR Receiver
 //Removed IR Sensor because of some issues
-//#include <IRremote.h>
+#include <IRremote.h>
 
 /******************************************************DEFINE SENSORS PIN & VARIABLES********************************************/
 #define PHOTO_REGISTER A0
