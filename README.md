@@ -3,6 +3,9 @@
 * It is a structural building with different types of covering materials, such as a glass or plastic roof and frequently glass or plastic walls.
 * Automated greenhouse involves the automatic monitoring and controlling of climatic parameters which directly or indirectly govern the plant growth and hence their production.
 
+You can also watch this video to get the better idea about this project
+https://youtu.be/Qm7A9FRhEbc
+
 List of Parts & Compnonents used
 1. Arduino Uno
 2. NodeMCU ESP 8266
